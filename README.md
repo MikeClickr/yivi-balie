@@ -1,5 +1,5 @@
-# IRMA balie
-Machine Readable Travel Document scanner for IRMA Proof of Concept.
+# Yivi balie
+Machine Readable Travel Document scanner for Yivi Proof of Concept.
 
 Developed for the municipality of Amsterdam.
 
